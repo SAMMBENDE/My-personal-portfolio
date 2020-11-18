@@ -222,6 +222,7 @@ section .title::after{
     object-fit: cover;
     border-radius: 50%;
     margin-bottom: 5rem;
+    opacity: 70%;
     
 }
 .about .about-content .right{
