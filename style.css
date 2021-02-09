@@ -335,7 +335,7 @@ section .title::after{
     border: 2px solid crimson;
     transition: all 0.3s ease;
 }
-
+/* projects */
 
 .projects .title::after{
     content: "Recent Works";
